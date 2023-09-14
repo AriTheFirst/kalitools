@@ -1,5 +1,6 @@
-sudo git clone https://github.com/Arithefirst/kalitools
-sudo cp kalitools/katoolin/katoolin.py /usr/bin/katoolin
-sudo chmod +x /usr/bin/katoolin
-sudo rm -rf kalitools
-sudo katoolin
+sudo add-apt-repository universe
+git clone https://github.com/s-h-3-l-l/katoolin3
+cd katoolin3/
+sudo chmod +x ./install.sh
+sudo ./install.sh
+sudo katoolin3
