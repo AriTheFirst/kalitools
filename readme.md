@@ -8,7 +8,9 @@ A one command solution for installing the hacking tools in [Kali Linux](https://
 
 ## Credits
 
- - [Creator of "Katoolin"](https://github.com/LionSec/katoolin) (Their script was modified in order to fix bugs)
+ - [Katoolin](https://github.com/LionSec/katoolin):
+       - The Tool used to install various kali tools
+       - Their script was modified to remove bugs
 
 
 
